@@ -9,7 +9,7 @@
   <b style="color: #ff79c6;">・┆✦ʚ♡ɞ✦ ┆・</b>
   <samp>
       <br>
-      Hi there! I'm <b style="color: #ff79c6;">Yasmin Matos</b>
+      Hi there! I'm <b style="color: #ff79c6;">Yasmin</b>
   </samp>
 </div>
 
