@@ -7,7 +7,7 @@
   <br>
   Hi there! I'm <b style="color: #ff79c6;">Yasmin⭒˙⟡</b>
   <br>
-  <b style="color: #ff79c6;">──────────────────────</b>
+  <b style="color: #ff79c6;">───────────────</b>
 
   <p>
     I’m an Information Systems student focused on backend development 
