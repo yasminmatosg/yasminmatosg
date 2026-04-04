@@ -11,8 +11,7 @@
 
   <p>
     I’m an Information Systems student focused on backend development 
-    and databases. Currently working with Java and C#, sempre 
-    aprimorando minhas habilidades.
+    and databases. Currently working with Java and C#, always improving my skills.
   </p>
 
   <h3>My Stack</h3>
