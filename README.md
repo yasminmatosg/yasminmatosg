@@ -1,8 +1,9 @@
-<div align="left">
-  <img align="left" height="300" src="https://github.com/user-attachments/assets/3dcf3921-c1d3-4dfa-a762-434f336e5844" alt="Yasmin Icon" style="margin-right: 20px;">
+<div align="center">
+  <img height="300" src="https://github.com/user-attachments/assets/3dcf3921-c1d3-4dfa-a762-434f336e5844" alt="Yasmin Icon">
+</div>
 
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelyfi+Sans&color=ff79c6&width=450&size=25&lines=I'm+an+Information+Systems+student;Be+welcome!" alt="Typing SVG"/>
-  
   <br>
   Hi there! I'm <b style="color: #ff79c6;">Yasmin⭒˙⟡</b>
   <br>
@@ -10,8 +11,8 @@
 
   <p>
     I’m an Information Systems student focused on backend development 
-    and databases. Currently working with Java and C#, always 
-    improving my skills to build efficient and scalable solutions.
+    and databases. Currently working with Java and C#, sempre 
+    aprimorando minhas habilidades.
   </p>
 
   <h3>My Stack</h3>
@@ -21,11 +22,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code">
 
-  <br><br>
+  <br>
 
-  <h3>GitHub Stats</h3>
-  <img height="230" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasminmatosg&theme=jolly"/>
-  <img height="230" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasminmatosg&theme=jolly&utcOffset=-3"/>
+  <div align="left">
+    <h3>GitHub Stats</h3>
+    <img height="210" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasminmatosg&theme=jolly"/>
+    <img height="210" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasminmatosg&theme=jolly&utcOffset=-3"/>
+  </div>
 </div>
 
 <br clear="left">
