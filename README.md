@@ -33,7 +33,7 @@
 
 <div align="center">
   <h3>Contact me!</h3>
-  <b style="color: #ff79c6;">・┆✦ʚ♡ɞ✦ ┆・</b>
+  <b style="color: #ff79c6;">・┆ ✦ʚ♡ɞ✦ ┆・</b>
   <br><br>
   <a href="mailto:yasminmatos039@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="Email"></a>
   <a href="https://www.linkedin.com/in/yasminmatosg/"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=ff79c6" alt="LinkedIn"></a>
